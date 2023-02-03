@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zustand-tailwind-site/static/css/main.fc9f2619.css",
+    "main.js": "/zustand-tailwind-site/static/js/main.67f7b0f7.js",
+    "static/media/rocketdab.png": "/zustand-tailwind-site/static/media/rocketdab.46251baa1a4a4d4992c6.png",
+    "index.html": "/zustand-tailwind-site/index.html",
+    "main.fc9f2619.css.map": "/zustand-tailwind-site/static/css/main.fc9f2619.css.map",
+    "main.67f7b0f7.js.map": "/zustand-tailwind-site/static/js/main.67f7b0f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9f2619.css",
+    "static/js/main.67f7b0f7.js"
+  ]
+}
